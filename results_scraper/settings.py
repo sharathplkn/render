@@ -123,4 +123,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS = ['https://results-scraper-1.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://result-scraper.onrender.com']
